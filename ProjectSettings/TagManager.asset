@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Obstacle
+  - Wall
+  - Bomb
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Ladder
+  - Wall
+  - Boss
+  - Effect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 1007937095
+    locked: 0
+  - name: Mid
+    uniqueID: 898785851
+    locked: 0
+  - name: Front
+    uniqueID: 472347685
+    locked: 0
+  - name: 5
+    uniqueID: 2045858119
+    locked: 0
+  - name: 4
+    uniqueID: 166075287
+    locked: 0
+  - name: 3
+    uniqueID: 3796700787
+    locked: 0
+  - name: 2
+    uniqueID: 1997602843
+    locked: 0
+  - name: 1
+    uniqueID: 1872992955
+    locked: 0
+  - name: 0
+    uniqueID: 2913652643
+    locked: 0
+  m_RenderingLayers:
+  - Default
